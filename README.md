@@ -2,7 +2,7 @@
 
 This Python program creates a simple GUI calculator using the Tkinter library. Users can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-## Features
+
 
 - Addition (+)
 - Subtraction (-)
